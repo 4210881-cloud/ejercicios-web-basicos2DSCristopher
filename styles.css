@@ -2,7 +2,7 @@
 
 /* Establece una imagen de fondo para el encabezado */
 #mi-encabezado {
-background-image: url('IMG/Que-es-la-arquitectura-de-software-Caracteristicas-y-tipos.jpg'); /* Reemplaza 'ruta-de-tu-imagen.jpg'
+background-image: url('IMG/707ec338-5e20-4deb-a715-c42ca3e54120.png'); /* Reemplaza 'ruta-de-tu-imagen.jpg'
 con la ubicación de tu imagen */
 background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */
 background-position: center; /* Centra la imagen en el encabezado */
@@ -56,7 +56,7 @@ margin-right: 30px; /* Espacio entre elementos del menú */
 
 a {
 text-decoration: none;
-color: #fffdfd; /* Color del texto del menú */
+color: #e25b01; /* Color del texto del menú */
 font-weight: bold;
 }
 
